@@ -1,0 +1,216 @@
+E:\TetrisAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\TetrisAPI\bin\Debug\net6.0\appsettings.json
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.exe
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.deps.json
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.runtimeconfig.json
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.dll
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.pdb
+E:\TetrisAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\TetrisAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\TetrisAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\TetrisAPI\bin\Debug\net6.0\EntityFramework.dll
+E:\TetrisAPI\bin\Debug\net6.0\Humanizer.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Web.Providers.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Web.Http.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\TetrisAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.AssemblyReference.cache
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfoInputs.cache
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfo.cs
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CoreCompileInputs.cache
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\TetrisAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\TetrisAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\TetrisAPI\obj\Debug\net6.0\scopedcss\bundle\TetrisAPI.styles.css
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CopyComplete
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.dll
+E:\TetrisAPI\obj\Debug\net6.0\refint\TetrisAPI.dll
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.pdb
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.genruntimeconfig.cache
+E:\TetrisAPI\obj\Debug\net6.0\ref\TetrisAPI.dll
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.staticwebassets.runtime.json
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\appsettings.json
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\TetrisAPI.staticwebassets.runtime.json
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\TetrisAPI.exe
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\TetrisAPI.deps.json
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\TetrisAPI.runtimeconfig.json
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\TetrisAPI.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\TetrisAPI.pdb
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\EntityFramework.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Web.Providers.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Web.Http.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nhap\Tần\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.AssemblyReference.cache
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfoInputs.cache
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfo.cs
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CoreCompileInputs.cache
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\scopedcss\bundle\TetrisAPI.styles.css
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CopyComplete
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.dll
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\refint\TetrisAPI.dll
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.pdb
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\TetrisAPI.genruntimeconfig.cache
+D:\Nhap\Tần\TetrisAPI\obj\Debug\net6.0\ref\TetrisAPI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\appsettings.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\TetrisAPI.staticwebassets.runtime.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\TetrisAPI.exe
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\TetrisAPI.deps.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\TetrisAPI.runtimeconfig.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\TetrisAPI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\TetrisAPI.pdb
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\EntityFramework.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Humanizer.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Web.Providers.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Web.Http.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.AssemblyReference.cache
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfoInputs.cache
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfo.cs
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\scopedcss\bundle\TetrisAPI.styles.css
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CopyComplete
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\refint\TetrisAPI.dll
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.pdb
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\TetrisAPI.genruntimeconfig.cache
+D:\BÀI TẬP\Lập trình ứng dụng C#\TetrisAPI\obj\Debug\net6.0\ref\TetrisAPI.dll

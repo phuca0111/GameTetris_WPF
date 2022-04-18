@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tWAMg1xIxF22dIMXCl2MBzAuGmEBN+djcounv6woFE8=",
+  "Source": "TetrisAPI",
+  "BasePath": "_content/TetrisAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TetrisAPI\\wwwroot",
+      "Source": "TetrisAPI",
+      "ContentRoot": "D:\\BÀI TẬP\\Lập trình ứng dụng C#\\TetrisAPI\\wwwroot\\",
+      "BasePath": "_content/TetrisAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BÀI TẬP\\Lập trình ứng dụng C#\\TetrisAPI\\wwwroot\\index.html",
+      "SourceId": "TetrisAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BÀI TẬP\\Lập trình ứng dụng C#\\TetrisAPI\\wwwroot\\",
+      "BasePath": "_content/TetrisAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
